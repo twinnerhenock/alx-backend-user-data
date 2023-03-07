@@ -31,3 +31,4 @@ def unauthorized() -> str:
     Return - raises 401 error
     """
     abort(401)
+
